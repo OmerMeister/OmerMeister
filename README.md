@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="blank"><img align="center" src="https://genesisbcs.com/wp-content/uploads/2016/12/cisco2.png" alt="omer-meister" height="30" width="64" /></a> Network Associate (CCNA)<br>
 <a href="https://www.techtarget.com/whatis/definition/MCSA-Microsoft-Certified-Solutions-Associate" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1280px-Microsoft_logo_%282012%29.svg.png" alt="omer-meister" height="20" width="93" /></a> Solutions Associate (MCSA) <br>
-<a href="https://www.juniper.net/us/en/training/certification/tracks/junos/jncia-junos.html" target="blank"><img align="center" src="https://s3.amazonaws.com/meister.public.resources/general_images/juniper_networks_logo.png" alt="omer-meister" height="22" width="76" /></a> Network Associate (JNCIA) <br>
+<a href="https://www.juniper.net/us/en/training/certification/tracks/junos/jncia-junos.html" target="blank"><img align="center" src="https://s3.amazonaws.com/meister.public.resources/general_images/juniper_networks_black.png" alt="omer-meister" height="22" width="76" /></a> Network Associate (JNCIA) <br>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner" target="blank"><img align="center" src="https://s3.amazonaws.com/meister.public.resources/general_images/aws_logo.png" alt="omer-meister" height="30" width="46" /></a> Cloud Practitioner (CLF)
 </p>
 
