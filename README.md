@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omer Meister</h1>
+<h1 align="center">Omer Meister - Devops eng. and Sysadmin</h1>
 <h3 align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omermeister&label=Profile%20views&color=0e75b6&style=flat" alt="omermeister" /> </p>
@@ -14,6 +14,9 @@
 <a href="https://stackoverflow.com/users/4811687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4811687" height="20" width="26" />StackOverflow</a>
 &nbsp;&nbsp;
 <a href="https://fb.com/omer.meister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omer.meister" height="20" width="26" />Facebook</a>
+&nbsp;&nbsp;
+<a href="mailto:stifmayster@yahoo.com" target="blank"><img align="center" src="https://s3.amazonaws.com/meister.public.resources/general_images/mail-icon.png" alt="omer.meister" height="20" width="26" />stifmayster@yahoo.com</a>
+
 
 <strong>Certifications:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><a href="https://www.credly.com/users/omer-meister/badges" target="blank">verify on credly</a>
 <p align="left">
