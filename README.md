@@ -1,8 +1,10 @@
-<h1 align="center">Omer Meister - Devops eng. and Sysadmin</h1>
+<h1 align="center">Omer Meister - DevOps eng. and Sysadmin</h1>
 <h3 align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3>
 
-
-- 🔭 I’m currently working on **kkkkkk**
+<h3 align="left">My top 3 projects:</h3>
+- [DP1001-JenkinsEcrEks](https://github.com/OmerMeister/dp1001) - Jenkins CI/CD pipeline which deploy which deploy a netflix clone (which I took from GitHub and containerized) to an aws kubernetes cluster. (also pushes the images to ECR)
+- [DP1000-Terraform](https://github.com/OmerMeister/dp1000) - An AWS S3 static website, which its' launch and update pipeline completly based on AWS resources, all resources provisioned with Terraform
+- [DP1003-InstaGrab-Selenium](https://github.com/OmerMeister/dp1003-InstaGrab) - Demonstrate selenium capabilities (using python) to scrap an instagram-viewer website. Uses various python classes, and perform error-handling
 
 <h3 align="left">Connect with me:</h3>
 
@@ -27,7 +29,7 @@
 
 </p>
 
-<h3 align="left">Programming languages, environments and DevOps tools </h3>
+<h3 align="left">Programming languages, environments and DevOps tools: </h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
