@@ -15,7 +15,7 @@
 <img align="center" src="https://s3.amazonaws.com/meister.public.resources/general_images/mail-icon.png" alt="omer.meister" height="24" width="26" />&nbsp;**stifmayster@yahoo.com**
 
 
-<strong>Certifications:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<strong>Certifications:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 <a href="https://www.credly.com/users/omer-meister/badges" target="blank">verify on credly</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=omermeister&label=Profile%20views&color=0e75b6&style=flat" alt="omermeister" />
