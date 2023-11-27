@@ -1,7 +1,6 @@
 <h1 align="center">Omer Meister - Devops eng. and Sysadmin</h1>
 <h3 align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omermeister&label=Profile%20views&color=0e75b6&style=flat" alt="omermeister" /> </p>
 
 - 🔭 I’m currently working on **kkkkkk**
 
@@ -19,7 +18,7 @@
 <strong>Certifications:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 <a href="https://www.credly.com/users/omer-meister/badges" target="blank">verify on credly</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omermeister&label=Profile%20views&color=0e75b6&style=flat" alt="omermeister" /> </p>
+<img src="https://komarev.com/ghpvc/?username=omermeister&label=Profile%20views&color=0e75b6&style=flat" alt="omermeister" />
 <p align="left">
 <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="blank"><img align="center" src="https://genesisbcs.com/wp-content/uploads/2016/12/cisco2.png" alt="omer-meister" height="30" width="64" /></a> Network Associate (CCNA)<br>
 <a href="https://www.techtarget.com/whatis/definition/MCSA-Microsoft-Certified-Solutions-Associate" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1280px-Microsoft_logo_%282012%29.svg.png" alt="omer-meister" height="20" width="93" /></a> Solutions Associate (MCSA) <br>
