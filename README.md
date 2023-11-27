@@ -13,7 +13,7 @@
 &nbsp;&nbsp;
 <a href="https://fb.com/omer.meister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omer.meister" height="20" width="26" />Facebook</a>
 &nbsp;&nbsp;
-<img align="center" src="https://s3.amazonaws.com/meister.public.resources/general_images/mail-icon.png" alt="omer.meister" height="20" width="26" />&nbsp;**stifmayster@yahoo.com**
+<img align="center" src="https://s3.amazonaws.com/meister.public.resources/general_images/mail-icon.png" alt="omer.meister" height="24" width="26" />&nbsp;**stifmayster@yahoo.com**
 
 
 <strong>Certifications:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><a href="https://www.credly.com/users/omer-meister/badges" target="blank">verify on credly</a>
