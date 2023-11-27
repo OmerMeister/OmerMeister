@@ -6,27 +6,7 @@
 - 🔭 I’m currently working on **kkkkkk**
 
 - 📫 How to reach me **stifmayster@yahoo.com**
-<table>
-<thead>
-	<tr>
-		<th>Header 1</th>
-		<th>Header 2</th>
-		<th>Header :</th>
-	</tr>
-</thead>
-<tbody>
-	<tr>
-		<td>Column 1</td>
-		<td>Column 2</td>
-		<td>Column 3</td>
-	</tr>
-	<tr>
-		<td>Custom Table Content</td>
-		<td>Column 4</td>
-		<td>Column 5</td>
-	</tr>
-</tbody>
-</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omer-meister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer-meister" height="30" width="40" /></a>
@@ -34,7 +14,7 @@
 <a href="https://fb.com/omer.meister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omer.meister" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Certifications:   </h3><a href="https://www.credly.com/users/omer-meister/badges" target="blank">verify on credly</a>
+<strong>Certifications:       </strong><a href="https://www.credly.com/users/omer-meister/badges" target="blank">verify on credly</a>
 <p align="left">
 <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="blank"><img align="center" src="https://genesisbcs.com/wp-content/uploads/2016/12/cisco2.png" alt="omer-meister" height="30" width="64" /></a> Network Associate (CCNA)<br>
 <a href="https://www.techtarget.com/whatis/definition/MCSA-Microsoft-Certified-Solutions-Associate" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1280px-Microsoft_logo_%282012%29.svg.png" alt="omer-meister" height="20" width="93" /></a> Solutions Associate (MCSA) <br>
