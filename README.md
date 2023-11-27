@@ -1,10 +1,13 @@
 <h1 align="center">Omer Meister - DevOps eng. and Sysadmin</h1>
-<h3 align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3>
+<h3 align="center">Hello there, until last year I was working in various networking and sysadmin roles (and still lovin' it), but as technology get advanced, the devops field has accelerated up to the impressive place where it is today. I am on my journey to master it day by day. All of my work presented here was done without a tutor and relies mostly on Udemy courses, Stackoverflow threads and of course ChatGPT. Projects related to devops starts with "dp". </h3>
 
 <h3 align="left">My top 3 projects:</h3>
-- <a href="https://github.com/OmerMeister/dp1001" target="blank">DP1001-JenkinsEcrEks</a> - Jenkins CI/CD pipeline which deploy which deploy a netflix clone (which I took from GitHub and containerized) to an aws kubernetes cluster. (also pushes the images to ECR)
-- <a href="https://github.com/OmerMeister/dp1000" target="blank">DP1000-Terraform</a> - An AWS S3 static website, which its' launch and update pipeline completly based on AWS resources, all resources provisioned with Terraform
-- <a href="https://github.com/OmerMeister/dp1003-InstaGrab" target="blank">DP1003-InstaGrab-Selenium</a> - Demonstrate selenium capabilities (using python) to scrap an instagram-viewer website. Uses various python classes, and perform error-handling
+• <a href="https://github.com/OmerMeister/dp1001" target="blank">DP1001-JenkinsEcrEks</a> - Jenkins CI/CD pipeline which deploy which deploy a netflix clone (which I took from GitHub and containerized) to an aws kubernetes cluster. (also pushes the images to ECR)
+<br>
+• <a href="https://github.com/OmerMeister/dp1000" target="blank">DP1000-Terraform</a> - An AWS S3 static website, which its' launch and update pipeline completly based on AWS resources, all resources provisioned with Terraform
+<br>
+• <a href="https://github.com/OmerMeister/dp1003-InstaGrab" target="blank">DP1003-InstaGrab-Selenium</a> - Demonstrate selenium capabilities (using python) to scrap an instagram-viewer website. Uses various python classes, and perform error-handling
+<br>
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/omer-meister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer-meister" height="20" width="26" />Linkedin</a>
