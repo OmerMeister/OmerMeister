@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/omer-meister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer-meister" height="20" width="26" /> Linkedin</a>
+<a href="https://linkedin.com/in/omer-meister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer-meister" height="20" width="26" /></a>
+[Linkedin]([https://website-name.com](https://linkedin.com/in/omer-meister))
 <a href="https://stackoverflow.com/users/4811687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4811687" height="20" width="26" />StackOverflow</a>
 <a href="https://fb.com/omer.meister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omer.meister" height="20" width="26" />Facebook</a>
 
