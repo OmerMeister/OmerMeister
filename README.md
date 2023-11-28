@@ -21,8 +21,6 @@
 
 <strong>Certifications:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 <a href="https://www.credly.com/users/omer-meister/badges" target="blank">verify on credly</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=omermeister&label=Profile%20views&color=0e75b6&style=flat" alt="omermeister" />
 <p align="left">
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner" target="blank"><img align="center" src="https://s3.amazonaws.com/meister.public.resources/general_images/aws-rectangle.png" alt="aws logo" height="30" width="46" /></a> Cloud Practitioner (CLF) <br>
 <a href="https://www.techtarget.com/whatis/definition/MCSA-Microsoft-Certified-Solutions-Associate" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1280px-Microsoft_logo_%282012%29.svg.png" alt="microsoft logo" height="20" width="93" /></a> Solutions Associate (MCSA) <br>
