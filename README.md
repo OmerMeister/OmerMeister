@@ -1,5 +1,5 @@
-<h1 align="center">Omer Meister - DevOps eng. and Sysadmin</h1>
-<h3 align="center">Hello there, until last year I was working in various networking and sysadmin roles (and still lovin' it), but as technology get advanced, the devops field has accelerated up to the impressive place where it is today. I am on my journey to master it day by day. All of my work presented here was done without a tutor and relies mostly on Udemy courses, Stackoverflow threads and of course ChatGPT. Projects related to devops starts with "dp". </h3>
+<h1 align="center">Omer Meister - Sysadmin</h1>
+<h3 align="center">Hello there, some of the repositories are edited for public and some are for slef internal use but feel free to dig in. Projects related to devops starts with "dp". </h3>
 
 <h3 align="left">My top 3 projects:</h3>
 • <a href="https://github.com/OmerMeister/dp1001" target="blank">DP1001-JenkinsEcrEks</a> - Jenkins CI/CD pipeline which deploy which deploy a netflix clone (which I took from GitHub and containerized) to an aws kubernetes cluster. (also pushes the images to ECR)
